@@ -13,4 +13,5 @@ Step 2: Make any desired changes to the config file, config0.cnf such as memory 
 Step 3: Run the command
 ### ./sim04 -rs config0.cnf
 Step 4: The simulator should now be running!
+
 Note: Preemptive may have some bugs, but nonpreemptive should be accurate every time.
